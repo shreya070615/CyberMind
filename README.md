@@ -1,4 +1,4 @@
-CyberMind - AI-Powered Security Operations Center (SOC) Platform
+<img width="1410" height="454" alt="image" src="https://github.com/user-attachments/assets/0b037ce2-7ce1-46d9-ac19-e070ea7ad20f" /><img width="15421" height="4990" alt="deepseek_mermaid_20260217_af9b1f" src="https://github.com/user-attachments/assets/b1442671-7c37-4f96-a4d3-4134b4615eb2" />CyberMind - AI-Powered Security Operations Center (SOC) Platform
 
 🚀 Overview
 CyberMind is an innovative AI-powered Security Operations Center (SOC) platform designed for MKSSS's Cummins College of Engineering for Women, Pune, in collaboration with Barclays. The platform leverages cutting-edge AI to transform how security analysts detect, investigate, and respond to cybersecurity threats.
@@ -100,6 +100,10 @@ cybermind/
 ├── public/
 │   └── map.svg                      # World map visualization
 └── [configuration files]
+<img width="1410" height="454" alt="image" src="https://github.com/user-attachments/assets/f4eeb0dd-8ff6-44ed-b411-592581153127" />
+
+
+
 
 
 
